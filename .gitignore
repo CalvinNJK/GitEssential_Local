@@ -1,3 +1,12 @@
+# dependencies folder
+node_modules/
+dependencies/
+*.log
+#include.stdio.h
+
+
+
+
 *.gem
 *.rbc
 /.config
